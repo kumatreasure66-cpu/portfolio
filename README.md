@@ -22,12 +22,12 @@ _**order list**
 >> I love dancing  
 The traditional "Hello world" code  
 To run my project follow the following steps  
-````cmd  
+```cmd  
 git init  --in the folder to chose to work on 
 git clone <url> --To clone my repo  
 ```  
 This will run the code below  
-````javascript  
+```javascript  
 console.log("Hello world")  
 ```  
 The AI model was provided by [kumatreasure],(https://github.com/kumatreasure)
