@@ -30,4 +30,4 @@ This will run the code below
 ```javascript  
 console.log("Hello world")  
 ```  
-The AI model was provided by [kumatreasure],(https://github.com/kumatreasure)
+The AI model was provided by [kumatreasure](https://github.com/kumatreasure66)
