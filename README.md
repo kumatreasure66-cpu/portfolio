@@ -20,10 +20,10 @@ _**order list**
 3. Watermelon
 > I am 18 years old  
 >> I love dancing  
-The traditional "Hello world" code  
+The traditional `Hello world` code  
 To run my project follow the following steps  
 ```cmd  
-git init  --in the folder to chose to work on 
+git init  --In the folder to chose to work on 
 git clone <url> --To clone my repo  
 ```  
 This will run the code below  
